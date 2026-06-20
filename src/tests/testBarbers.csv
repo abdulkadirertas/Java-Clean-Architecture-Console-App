@@ -1,0 +1,2 @@
+barberId;firstName;lastName;phone;password;isActive;shopName;approvalStatus
+b-555;Hakan;Kaya;null;null;false;Star Barber;PENDING

@@ -1,0 +1,10 @@
+barberId;firstName;lastName;phone;password;isActive;shopName;approvalStatus
+b-be3996e6;Can;Orhan;55555;f34b72e14fb250dbedede1c2791e8def1a341d074ea2df3943621d8903e5d508;true;Simotcan;APPROVED
+b-5a646604;Gizem;Yalın;05442327021;e57077ed007cebbc254e38c5837dd2503cf938cd2af93e33cea6051505a653ce;true;Gizem Beauty;APPROVED
+b-8fc7a95d;İrem;Duru;05451791080;e5a1a060fb08b83d6175ba1837be67307d5f2fa0dccdbd0fbdd1deed034077b3;false;İremin Güzellik Salonu;APPROVED
+b-da139ce9;Metin;Meral;05457412235;688a077d13df89d2f3c69583137679a906a21b2486694167ae697bfd8c40ce83;true;Hair Designer Metin;APPROVED
+b-534bd3cc;başkan2;bey;0232323232;037c6b49a7875afd33d86bfe3063c1cb0b9f50b60b9e3f2c7cf887a1835c3fba;false;Başkan's House;REJECTED
+b-100f7e10;Mehmet Ali;Kara;05524892190;072f5960f889867f103a96c0f9406a0239ebbf8466b7235fd573651b2fd4d44d;true;Barber Mehmet Ali;APPROVED
+b-0e637552;başkan;bey;0232323232;037c6b49a7875afd33d86bfe3063c1cb0b9f50b60b9e3f2c7cf887a1835c3fba;false;Başkan's House;REJECTED
+b-62b98a18;ali;kerim;05454545454;d5083e34522626dd10e151c78c1ba502a3d67427b752c3fd43bd3b944072d1e7;true;Alinin yeri;APPROVED
+b-85e2cacd;Melih;Çelik;05422216766;8e4c556289831463ecf97b7e4249bc42e1451eaf8a2a98c391625da17b6e424e;true;Melih's Barber Shop;APPROVED
